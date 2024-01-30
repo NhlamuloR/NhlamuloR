@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nhamulo! <br/><a href="https://github.com/joshmadakor1">Software Engineer</a> | <a href="https://www.linkedin.com/in/joshmadakor/">Youth Activist</a> 
+<h1>Hi, I'm Nhamulo Ramosedi! <br/><a href="https://github.com/joshmadakor1">Software Engineer</a> | <a href="https://www.linkedin.com/in/joshmadakor/">Youth Activist</a> 
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
